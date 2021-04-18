@@ -1,0 +1,6 @@
+
+Descripción
+Somos la Empresa SALESLAND, contamos con 20 años de experiencia en el mercado y presencia en España, Portugal, Guatemala, Colombia, Chile, México y Perú, siendo especialistas en gestión de equipos de ventasNuestro cliente, empresa líder del rubro Farmacéutico, se encuentra en búsqueda de:ANALISTA PROGRAMADOR WEB JUNIORRequisitos:Indispensable:Desarrollo de Aplicaciones con MVC (Arquitectura Modelo Vista Controlador), Visual Studio .NetEntorno ASP.Net, en lenguaje de programación c#, Vb.Net.Formularios Web Forms en ASP.netConocimientos de Html5, CSS, JavaScript, JQuery.Servicios API REST FULL, uso de JSONTransact SQL SERVER 2012 - 2017Reporting ServicesExperiencia: 3 años mínimo.Disponibilidad para trabajar de lunes a sábado.Deseable:Conocimiento en los Sistemas SOFTCOM y CONCARAngular 9 - FrontEndNet Core, para desarrollo de API - BackendBootstrapAnalysis Services, Integration ServicesHorario:Trabajo presencial: lunes a sábadoSalario:Planilla fija y completa desde el primer día de laboresRango Salarial acorde a experiencia entre S/.2500 a S/.3200Todos los beneficios de Ley
+Cantidad de vacantes: 2
+Requerimientos
+Educación mínima: UniversitarioAños de experiencia: 3Edad: entre 22 y 45 añosDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

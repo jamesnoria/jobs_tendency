@@ -1,0 +1,7 @@
+
+Descripción
+Formación Académica:Bachiller o Titulado en Ingeniería de Sistemas, Informática o carreras afines.Certificado como Desarrollador en Visual Studio Developer C# web  (deseable).Experiencia General:Experiencia laboral mínima de 5 años como desarrollador de sistemas de información en el sector público y/o privado.Experiencia específica:Experiencia en desarrollo de aplicaciones y servicios REST y Microservicios.Experiencia utilizando .Net Core 3.1.Experiencia utilizando base de datos SQL Server.Experiencia utilizando Angular 8.0 o superior.Experiencia utilizando Material sobre Angular (deseable).Experiencia utilizado el versionador GIT.
+Fecha de contratación: 15/05/2021
+Cantidad de vacantes: 5
+Requerimientos
+Educación mínima: UniversitarioAños de experiencia: 7Idiomas: Español Edad: entre 26 y 45 añosConocimientos: SQL Server, JavaScript, AngularJS, MicroserviciosDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

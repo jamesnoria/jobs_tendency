@@ -1,0 +1,7 @@
+
+Descripción
+FUNCIONES:• Desempeño de rol de Analista Programador. • Coordinaciones diversas áreas usuarias para levantamiento de requerimientos.• Elaboración documentos de Análisis y Diseño.• Definición de Soluciones técnicas y nuevas funcionalidades.• Programación en lenguaje Java • Ejecución de Pruebas Integrales • Soporte a Pruebas de Certificación• Despliegue en ambiente de Producción de cliente de la solución implementada. EXPERIENCIA DE  3 años comprobadaPERFIL TÉCNICO:Requerido• Conocimiento y experiencia en lenguajes de programación Java 8• Conocimiento y experiencia en Docker• Conocimiento y experiencia en API Manager• Conocimiento de arquitecturas de microservicios (SOAP / REST / Swagger, Open API) • Conocimiento y experiencia en Spring Boot / Spring Web Services• Conocimiento y experiencia en Jboss y RedHat• Dominio en Base de Datos SQL SERVER (2014 o superior)Deseable• Conocimiento y experiencia en .NET (Framework 4.5 ó superior)• Conocimiento y experiencia en gestores de dependencias (Maven / Gradle)• Conocimiento y experiencia en metodologías ágiles (Scrum / Kanban)• Experiencia en Cloud Azure• Conocimiento y experiencia en Jira• Conocimiento y experiencia en programación reactiva
+Fecha de contratación: 23/05/2021
+Cantidad de vacantes: 2
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 3Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

@@ -1,0 +1,7 @@
+
+Descripción
+REQUISITOS:•	Bachiller en Ingeniería de Sistemas, Informática o similares•	Experiencia mínima de tres (03) años como Analista Programador JAVA•	RDBMS Oracle•	Spring Framework•	Lenguaje Java 8 o superior•	Lenguaje JavaScript•	Servicios REST•	Framework de front-end Bootstrap, Primefaces•	Conocimientos de SCRUMFUNCIONES:•	Participar de las reuniones para el levantamiento de información y definiciones de nuevos requerimientos según la necesidad del Product Owner.•	Realizar tareas de diseño, programación, pruebas y despliegue de aplicaciones.•	Realizar el mantenimiento y soporte de los sistemas informáticos ya existentes•	Realizar la revisión técnica de primer nivel a los sistemas.•	Realizar la actualización a la documentación técnica correspondiente a los aplicativos actualizados.•	Realizar el soporte y solución de incidencias de las aplicaciones.CAPACITACION:•	Curso o Taller en JAVA con un mínimo de 40 horas lectivas.•	Curso o Taller en Base de Datos ORACLE con un mínimo de 30 horas lectivas.•	Curso de Seguridad de la Información con un mínimo de 12 horas lectivas.•	Curso o Taller en Scrum Developer con un mínimo de 20 horas lectivas.
+Fecha de contratación: 03/05/2021
+Cantidad de vacantes: 4
+Requerimientos
+Educación mínima: UniversitarioAños de experiencia: 3Idiomas: Inglés Edad: entre 25 y 40 añosConocimientos: Oracle, Java, JavaScriptDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

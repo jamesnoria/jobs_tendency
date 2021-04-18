@@ -1,0 +1,6 @@
+
+Descripción
+¡Te invitamos a ser parte de nosotros, postulando a la posición de “ Programador Backend Java - con exp en AWS”!  Requisitos:•	Bachiller o Egresado en Ingeniería de Sistemas, Informática o carreras técnicas de sistemas de información.•	Experiencia minima  de 3 años en el rol de Desarrollador de SW.•	Experiencia en proyectos financieros (Banca o AFP) •	Conocimientos en Java 8, Spring Boot, Spring Cloud, Spring JPA•	Experiencia en desarrollo de microservicios (REST, JWT, Api Gateway) y en desarrollo en nube con SDK de AWS, EC2, Lambda, Docker.•	Experiencia en Integracion y entrega continua con Jenkins, Maven, Junit, SonarQube, Git.•	Conocimiento en Base de datos: SQL Server, MySQL•	Experiencia y conocimiento en marcos agiles - SCRUMBeneficios:•	Trabajo 100% remoto.•	Planilla (Zoluxiones) con todos los beneficios de ley.•	Salario acorde al mercado.
+Cantidad de vacantes: 4
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 3Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

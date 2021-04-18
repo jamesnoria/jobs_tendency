@@ -1,0 +1,7 @@
+
+Descripción
+Nuestra empresa requiere de analista Programadores en PHP y Mysql , conocimiento orientado a objetosCapacidad de análisis y lógica para crear algoritmosFacilidad en adecuarse a frameworks nuevosUso de librerías nuevas.Principales Funciones:• Crear páginas web (FrontEnd y Backend), según el análisis y diseño solicitado• Crear tablas, procedimientos almacenados y querys en MySql o SqlServer.Lenguajes de programación que debe dominar:Programación en PHP POOWordpress - PrestashopLiberias javascript:JqueryReact (Deseable)Frameworks:Laravel Vue.jsAngular.js (Deseable) Base de datosMySqlSqlServer
+Fecha de contratación: 09/05/2021
+Cantidad de vacantes: 2
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 2Edad: A partir de 23 añosDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

@@ -1,0 +1,6 @@
+
+Descripción
+Empresa especializada en desarrollo de sistemas requiere contratar 5 programadores de 20 a 30 años de edad, con experiencia mínima de 2 años en: - Lenguaje de programación: PHP 5 y 7 (Nivel avanzado), Javascript (Nivel avanzado), Html - Base de datos: MySQL 5 (Nivel avanzado) , SQL(Nivel intermedio) - Manejo de: Ajax (Nivel avanzado), css (Nivel avanzado) - Librerias: Jquery, Vuejs (Nivel avanzado), fpdf, phpexcel ,xlswriter- Manejo de GIT, POO, MVC Ingreso a planilla, contrato de 1 año Sueldo : S/.2,000 Horario de Trabajo: L - V : 8:00 am - 6:00 pm , S : 8:00 am - 1:00 pm Por favor, abstenerse de no cumplir con cualquiera de los requisitos, incluye estar entre el rango de edad.
+Cantidad de vacantes: 5
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 1Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

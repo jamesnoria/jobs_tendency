@@ -1,0 +1,7 @@
+
+Descripción
+Se necesita Analista / ProgramadorCONOCIMIENTOS:* Nivel Medio o Avanzado en Node.js y Vue.js.* Conocimiento en al menos un framework NodeJS de preferencia Loopback.* Conocimiento de VueJS (v2), de preferencia usando un framework como Quasar.* Manejo intermedio/avanzado en HTML5, de preferencia con Pug.* Maquetación CSS, de preferencia dominio en algún preprocesador como Sass o Stylus.* Manejo intermedio/avanzado en JavaScript, de preferencia en ES6+.* Dominio de Consultas SQL (Select Avanzado).* Conocimientos en software de control de versiones: Git.* Conocimientos complementarios: Servicios de la nube, de preferencia S3.PERFIL:* Egresado de Instituto o Universidad.* Experiencia Mínima de 1 año en Node.js y vue.js.HABILIDADES:* Capacidad de coordinar con equipo de trabajo.* Creatividad y Proactividad.* Ser responsable y puntual.* Autodidacta, con deseo de investigación.OBLIGATORIO:* SOLO PARA POSTULANTES QUE VIVAN en distritos: Surco, San Juan de Miraflores, Villa María del Triunfo, Villa El Salvador, Chorrillos o San Borja. No enviar otros distritos.* Indicar Pretensiones Económicas en CV.OFRECEMOS:* Trabajo en Planillas.* Buen ambiente de trabajo.* Estabilidad permanente e indefinida.* Aumento permanente de sueldo cada año.
+Fecha de contratación: 19/04/2021
+Cantidad de vacantes: 2
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 1Idiomas: Inglés Edad: entre 22 y 30 añosConocimientos: Node.jsLicencias de conducir: A-I Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

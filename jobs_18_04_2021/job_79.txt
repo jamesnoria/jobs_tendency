@@ -1,0 +1,6 @@
+
+Descripción
+CSTI Corp es una empresa líder en la industria TI en Perú, especializado en brindar soluciones de negocios en las líneas de outsourcing, soporte y proyectos de innovación e integración utilizando SAP Cloud Platform, SAP Analytics Cloud y SAP Leonardo. Pertenecemos a la red global de "SAP Strategic Partner" para brindar servicios de consultoría en SAP Leonardo IoT con paquetes aceleradores y productos diseñados para ayudar a nuestros clientes a construir velozmente soluciones IoT específicos a las necesidades de sus negocios y a precios pre-definidos.Nos encontramos en la búsqueda de un "ANALISTA PROGRAMADOR JAVA", para nuestra línea de negocio. REQUISITOS:- Estudios técnicos o universitarios concluidos en Ingeniería de Sistemas o carrearas afines al cargo.- Mínimo 3 años de experiencia en construcción de servicios en java y spring boot y desarrollo de APIs- Experiencia en Angular 5+- Experiencia con Java 11 (6 meses a más)- Experiencia en Mybatis, Apache, Tomcat. ¡Ven y únete a la familia CSTI CORP!
+Cantidad de vacantes: 3
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 4Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

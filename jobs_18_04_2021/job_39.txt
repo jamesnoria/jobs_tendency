@@ -1,0 +1,6 @@
+
+Descripción
+JET PERU empresa peruana con 38 años de experiencia, especializada en el rubro de transferencia de fondos y casa de cambio. Se encuentra en la búsqueda de los mejores talentos con experiencia en el rubro, para desarrollarse como Seguridad de la tecnología para nuestra Oficina San Isidro, sé parte de este gran reto en una empresa financiera sólida y con gran expansiónREQUISITOS:- Migración de datos entre dos sistemas.- Creación de Servicios API.- Análisis, diseño y desarrollo de módulos en el ERP Odoo.- Pruebas en los ambientes de desarrollo, pre-producción y producción.- Implantación del ERP.- Elaboración del Manual de configuración del ERP.CONOCIMIENTO:- Odoo Framework. - Python.- Flask Framework.- JavaScript.- PostgreSQL.
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: UniversitarioAños de experiencia: 3Disponibilidad de viajar: SiDisponibilidad de cambio de residencia: SiPersonas con discapacidad: Sí

@@ -1,0 +1,7 @@
+
+Descripción
+Desarrollo de sistema a medida cuyo modelo es el training hacia al publico general.  Deberá incluir planes de entrenamiento, publicación de recetas, etc. Detalle se brindará por correo. 
+Fecha de contratación: 14/05/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 3Conocimientos: Linux, SQL Server, PHP, Laravel, CodeigniterDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

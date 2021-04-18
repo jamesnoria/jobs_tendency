@@ -1,0 +1,7 @@
+
+Descripción
+¿Qué perfil buscamos?•	Egresada(o) técnico/bachiller de las carreras de Informática o afines a programación con conocimiento de desarrollo web y afines.•	Lenguajes de programación Java, JavaScript, Php•	Base de datos: SQL Server, MySQL•	Conocimiento en desarrollo de interfaces de usuario con React, HTML5 y CSS3.•	Conocimiento de UI/UX.•	Conocimiento de metodologías ágiles.•	Herramientas: SOAPUI, Visual Studio•	Experiencia desarrollando y/o dando mantenimiento a servicios web: SOAP, REST, XML
+Fecha de contratación: 08/05/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 1Edad: A partir de 25 añosConocimientos: JavaOS, SQL Server, ASP.Net, Java, JavaScript, PHP, Gestión de proyectos, MySqlLicencias de conducir: A-I Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

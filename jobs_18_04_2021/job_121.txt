@@ -1,0 +1,6 @@
+
+Descripción
+La empresa Grupo todo en uno, ubicada en San miguel está dedicada a la intermediación de ventas y servicios de taxi, delivery, venta de pasaje, etc a través de nuestro aplicativo WIP y pagina WEB se encuentra en la búsqueda de (01) Programador Backed PHP FullstackREQUISITOS:Egresado o bachiller ing sistemas, informática, etcExperiencia comprobada (1 a + años) desarrollando plataformas webConocimientos en: PHP 7, OO/MVC, Git, Metodología Ágiles (Kanban, Scrum), Linux (nivel intermedio)Conocimientos en desarrollo de aplicativos móviles (android, ios, nativos o hibridosConocimientos en Javascript, Html5, Css3.Conocimientos en AWS (deseable)Conocimiento en patrones de diseño y arquitectura FrontEnd (deseable)Conocimientos en desarrollo de web services SOAP y REST.FUNCIONES:Mantenimiento y desarrollo de sistemas en PHP- Elaborar documentación técnica.- Analizar, diseñar y desplegar requerimientos de los usuarios.- Desarrollo de nuevas funcionalidades y módulos adicionales.- Optimización de código existente en la aplicación,
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 1Edad: entre 24 y 50 añosDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

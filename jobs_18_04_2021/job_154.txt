@@ -1,0 +1,7 @@
+
+Descripción
+Responsabilidades: * Ser responsable del mantenimiento de las apps actuales de la empresa.* Interacción con el equipo de desarrollo web para completar el flujo de los datos. * Responsable de las mejoras a realizar a los aplicativos móviles futuros. * Considerar el desarrollo en ambientes que protejan la generación del código fuente. Requisitos: * Estudios técnicos o universitarios concluidos de Ingeniería de Sistemas, Computación e Informática o afines. * Experiencia mínima de 4 años realizando programación de aplicativos móviles [Obligatorio] * Manejo de Servicios Web [Obligatorio]* Manejo de Base de datos SQLite [Obligatorio] * Manejo de Base de datos SQL Server (2008,2012) [Obligatorio]* Conocimiento de Arquitecturas de Desarrollo de Software. [Deseable]* Conocimiento de metodologías Agiles de Desarrollo de Software. [Deseable]Conocimientos: * Programación en JAVA. * Programación en ANDROID STUDIO. * Manejo de base de datos SQLite. * Manejo de Firebase. * Api de Google Maps Movil. * Manejo de Servicios Soap C# (Obligatorio)* Manejo de Servicios Rest C# (Deseable)* Manejo de Servicios NodeJs (Deseable)* Sistema de control de versiones: Github. (Deseable) 
+Fecha de contratación: 19/04/2021
+Cantidad de vacantes: 3
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 2Idiomas: Inglés Conocimientos: PostgreSQL, SQL Server, ASP.Net, C#, Java, JavaScript, ASP.NET MVC Web API, ASP.NET MVC, HTML 5Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

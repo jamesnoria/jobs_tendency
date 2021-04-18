@@ -1,0 +1,6 @@
+
+Descripción
+Cumplimiento del siguiente perfil :Conocimiento (Indispensable)•	Experiencia en desarrollo de aplicaciones .NET (C#, NetCore, ASP, APIS y JavaScript)•	Web Services (SOAP/ REST)•	Desarrollo de aplicaciones móviles Android•	Programación backend con Java•	Control de Versiones GIT (GitLab)•	Conocimiento en Xamarin•	Conocimiento de HTML5, CSS3•	Conocimiento de programación funcional y orientada a objetos en JavaScript.•	Conocimiento de buenas prácticas, patrones de diseño y pruebas automatizadas en JavaScript.•	Conocimiento en Frameworks JavaScript (Angular, React, Vue, Ember, etc),Competencias•	Adaptabilidad a los Cambios•	Búsqueda de Información•	Capacidad de Planificación•	Comunicación•	Trabajo en Equipo
+Cantidad de vacantes: 2
+Requerimientos
+Educación mínima: UniversitarioAños de experiencia: 3Idiomas: Inglés Edad: entre 25 y 35 añosDisponibilidad de viajar: SiDisponibilidad de cambio de residencia: No

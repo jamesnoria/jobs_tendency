@@ -1,0 +1,7 @@
+
+Descripción
+FUNCIONES:- Modificar/Alterar nuestro backend y aplicaciones WEB, desarrollados en PHP 7+/LARAVEL 5+ y postgres 10+.- Aplicar cambios de forma continuada en el proyecto web.HABILIDADES:Laravel, Postgresql, PHP, Angular 7+.* Se valora conocimientos en C++, Redis, servicios en AWS.
+Fecha de contratación: 08/06/2021
+Cantidad de vacantes: 3
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 2Idiomas: Inglés Edad: entre 18 y 33 añosConocimientos: PostgreSQL, PHP, Node.jsDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

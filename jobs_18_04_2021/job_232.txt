@@ -1,0 +1,7 @@
+
+Descripción
+1.	Realizar la informatización y documentación técnica de los procesos de los sistemas desarrollados para La Empresa.2.	Realizar el levantamiento de la información técnica detallada para el desarrollo de sistemas.3.	Realizar el modelamiento de software para identificar las funcionalidades del sistema.4.	Realizar el análisis de impacto de cambios solicitados, estimando e informando la cantidad de programas y/o procesos impactados y tiempos de desarrollo.5.	Analizar y diseñar el modelo físico de datos.6.	Elaborar la documentación de los manuales del sistema y usuario del proyecto asignado.7.	Ejecutar las pruebas de sistemas, según los planes de pruebas elaborados para cada fin, garantizando los niveles de calidad de los entregables.8.	Capacitar y entrenar a los usuarios en el manejo del software construido.9.	Presentar informes de las actividades culminadas, pendientes de atención y en ejecución
+Fecha de contratación: 08/05/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 2Idiomas: Inglés Conocimientos: Windows, SQL Server, ERP, SAP, WordPress, Microsoft OfficeDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

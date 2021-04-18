@@ -1,0 +1,7 @@
+
+Descripción
+En SIMSAC estamos buscando un Front End Developer para sumarse a nuestro equipo de tecnología en Perú.Queremos escuchar tus ideas. No caemos en el cliché de buscar "personas con actitud", sino que lo llevamos a nuestros valores y a la práctica. Nos gustan los desarrolladores propositivos. Si tienes una idea mejor esa es la que vamos a seguir.Dentro de las funciones están:    • Desarrollo de Software de manera rápida y fluida utilizando nuestro stack tecnológico  : Utilizamos Vue.JS,Vue router, para Web y Native Script para Mobile, HTML (Indispensable)- Maquetación CSS3 (indispensable),Uso de estándares y buenas prácticas de maquetación,Conocimiento del framework Bootstrap- Javascript (Indispensable), Web services RestFull (Indispensable),Control de versiones GIT 
+Fecha de contratación: 07/05/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 1Conocimientos: CSS, HTML, JavaScript, ASP.NET MVC Web APIDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

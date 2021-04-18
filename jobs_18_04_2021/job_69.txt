@@ -1,0 +1,7 @@
+
+Descripción
+Técnico en Computación e Informática, Egresado o Bachiller de las carreras de Ing. de Sistemas, Informática o afines.  Experiencia mínima 3 años.Conocimientos en:-	Lenguaje de desarrollo: C#-	Lenguajes de marcado: XML, XSLT.-	Tecnologías Web Front End: HTML, CSS, Javascript, JQuery.-	Frameworks: ASP.Net, WCF, WF.  -	Plataformas de Colaboración: SharePoint 2007 – 2010 – 2013.-	SharePoint online-	Base de Datos: SQL Server 2008.-	Herramientas de Desarrollo: Visual Studio 2008 – 2010 -  2012.-	Herramientas de Diseño: SharePoint Designer.Experiencia -	Análisis y especificación de requerimientos.-	Implementación de portales (intranet / extranet) usando la plataforma Microsoft Office Sharepoint Server 2007, Microsoft SharePoint Server 2010 o Microsoft SharePoint Server 2013.-	Diseño y Configuración de sitios SharePoint. (Taxonomía y Branding).-	Diseño y Configuración de Aplicaciones de Servicios: User Profiles & Search Service.-	Desarrollo de componentes Webparts, Event Receivers, Workflows & Timer Jobs.-	Desarrollo de scripts en Power Shell para la configuración de la plataforma Sharepoint y despliegue de componentes.
+Fecha de contratación: 14/05/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 3Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

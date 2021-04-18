@@ -1,0 +1,6 @@
+
+Descripción
+REQUISITOS•Profesional técnico de la carrera de ingeniería de software, desarrollo de software o afines.•Experiencia mínima de 6 meses.CONOCIMIENTOSMetodologías•Programación orientada a objetos•REST•BEM•OOCSSLenguajes de programación•JavaScript ECMAScript 6 (ES6)•PHPFrameworks•Angular 2+ o Vue.js (Framework Javascript)•Laravel (Framework PHP)•SASS (Framework CSS)•Bootstrap - NgxBootstrap (Framework frontend)•Materialize CSS•MDLBases de datos•MySQL •MongoDB Otras tecnologías relevantes para la posición:•HTML5 (Ultima versión de HTML)•NormalizeCSS•Modernizr•CSS3 (Ultima versión de CSS)•JQuery (Liberia JavaScript)•Git (Herramienta de versionamiento)•Layout with Display Inline-Block, Table, Flex•Animations CSS Keyframes and transitions•Conceptos de maquetación para iOS (Js/Css Hacks)•Responsive Design•Automatizadores de tareas (Gulp / Webpack)•Manejo de plantillas web•Conceptos de diseño UI/UX•Conceptos de tematizacion para Angular Material•Patrones de diseño en JavaScript•Conceptos de diseño Google MaterialHorario:Lunes a Viernes 8:30 am a 6:30 pm
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

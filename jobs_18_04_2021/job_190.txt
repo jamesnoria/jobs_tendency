@@ -1,0 +1,7 @@
+
+Descripción
+En Hallwiya Innovation Lab buscamos un Técnico o Ing. Electrónico / Informático o a fin recién egresado; que le apasione la tecnología con mucha iniciativa y ganas de aprender.Hallwiya es una empresa nueva que busca desarrollar y adaptar soluciones tecnológicas que involucran el desarrollo de sistemas embebidos, IoT, comunicaciones e integración con PCs y dispositivos móviles.Actualmente se tienen propuestas de desarrollo relacionadas a cámaras de videos programables, aplicaciones de visión por computadora para generación de data, generación de nube de puntos a partir de cámaras estándar, telemetría, etc.El trabajo consiste en apoyar a convertir las propuestas en productos o servicios comerciales a través de la prueba/ testeo de soluciones, armado de prototipos, crear interfaces, APIs, servicios Web, programas, etc. \Además de gestionar la compra de insumos para prototipos, apoyar con la promoción de los productos y la empresaLos sistemas embebidos están basados en microcontroladores (como Arduino, AVR, PIC) y mini PCs (como Raspberry Pis, mini PCs). Para los cuales se trabajan en lenguaje C, C++ y Python.La mayor parte de trabajo se realizará de manera remota y se tendrán reuniones continuas
+Fecha de contratación: 19/04/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoEdad: Hasta 28 añosConocimientos: C, PythonDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

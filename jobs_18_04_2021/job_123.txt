@@ -1,0 +1,6 @@
+
+Descripción
+Empresa del grupo Ingram Micro, dedicada a brindar servicios en soluciones de Tecnología de la Información, se encuentra en la búsqueda de PROGRAMADORES ,NET (2) que cumplan con el siguiente perfil:Conocimientos:•	Visual Studio 2015 a más•	ASP .Net MVC 4/5•	Web API•	Programación web C#•	SQL Server 2014 a más•	TSQL (Store Procedured, Vistas, Funciones y triggers)•	HTML 5, JavaScript JQuery•	Reporteadores Crystal Reports y Report ViewerFunciones:•	Análisis de requerimientos    ( muy importante)  •	Mantenimiento, desarrollo y pruebas de módulos de aplicaciones existentes•	Análisis y diseño de base de datos•	Proponer mejoras de módulos existentes•	Proyectos de automatización y mejora a través del sistema•	Reportar al jefe inmediato sobre las actividades realizadasRequisitos:•	Profesional de la carrera de Ingeniería de Software, Ingeniería de Sistemas, Ingeniería Informática.•	Por lo menos 3 años de experiencia en Desarrollo de aplicaciones web con .net. Mantenedores, módulos y metodología scrum.
+Cantidad de vacantes: 2
+Requerimientos
+Educación mínima: UniversitarioAños de experiencia: 3Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

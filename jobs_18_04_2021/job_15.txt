@@ -1,0 +1,7 @@
+
+Descripción
+Análisis y desarrollo de productos orientados a negocio, utilizando lenguajes como VB.NET, Java, MVC.NET, entre otros. Los productos que manejamos son de diversas plataformas (windows, web, android) y se requiere ingenio e innovación en el desarrollo de estos productos.
+Fecha de contratación: 30/04/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoConocimientos: SQL Server, ASP.Net, C#, Java, VB.Net, ERP, ASP.NET MVCDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

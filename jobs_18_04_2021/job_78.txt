@@ -1,0 +1,7 @@
+
+Descripción
+Se requiere contratar a un programador PHP 7 para brindar servicio remoto de Mantenimiento y Nuevos Requerimientos para un Portal de importante cadena de Hoteles y por un plazo hasta diciembre 2021, a tiempo completo.Los Requisitos son:- Conocimiento de Metodologías Agiles- APIS Rest Full y formatos JSON y XML- Sólidos conocimientos de manejo de versiones GITBACKEND:- SO: UBUNTU Server 16.04- WebServer: NGINX 1.14- Lenguaje PHP 7- Framework: LARAVEL 5.5- Base de Datos: MySQL 5.6 y MONGO DB- Servicios AWS (EC2, S3, RDS)FRONTEND:- Lenguajes: HTML 5, CSS 3, RDS, Certificate manager)Framework: VUE.JS, Element UI, y/o Bulma
+Fecha de contratación: 02/05/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 5Edad: entre 25 y 32 añosConocimientos: CSS, JavaScript, PHP, MongoDB, Laravel, HTML 5, MySqlDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

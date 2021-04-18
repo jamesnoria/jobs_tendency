@@ -1,0 +1,6 @@
+
+Descripción
+PROGRAMADOR JAVA1.	Requisitos•	Ingeniero de Sistemas o Técnico en computación e Informática.•	Java EE.•	Conocimiento Spring Framework.•	Conocimiento en Angular versión 7.•	Conocimiento en Angular versión 1.5.•	Conocimiento en pruebas unitarias, integración (JUnit).•	Oracle PLSQL (Creación de paquetes, procedimientos almacenados, funciones, Optimizaciones)•	Patrones de diseño•	Git, svn.•	Conocimientos en maquetación web (CSS, HTML, JQUERY).•	Conocimiento de Web Services REST y SOAP.•	Conocimiento de gestor de dependencias Maven.•	Conocimiento de Hibernate/JPA.•	Experiencia o manejo de conceptos de seguridad. (OAUTH 2.0, OIDC, JWT, TLS, HTTPS, Spring Security, Spring OAuth).•	Tener mínimo 3 años de experiencia.•	Deseable experiencia en microservicios Java.•	Deseable experiencia en Spring Reactive.2.	Funciones •	Desarrollar y optimizar aplicaciones en web. •	Crear y consumir servicios API Rest•	Crear y consumir servicios Soap•	Conocimiento en metodologías de diseño y desarrollo de sistemas de información.•	Informar y capacitar a los usuarios en los cambios que se hayan realizado al sistema.
+Cantidad de vacantes: 2
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 3Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

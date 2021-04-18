@@ -1,0 +1,7 @@
+
+Descripción
+COMPLEXLESS es una empresa peruana especializada en el Desarrollo de Soluciones Tecnológicas. Buscamos incorporar el mejor talento para ocupar la posición de ANALISTA PROGRAMADOR SENIOR. FORMACIÓN ACADÉMICA:•	Técnico en Computación e Informática o Egresado de la carrera de Ingeniería de Sistemas o afines.REQUISITOS:•	Experiencia comprobada en Tecnologías de Desarrollo de Software (10 años como mínimo)FUNCIONES:•	Implementación de aplicaciones.•	Seguimiento y modificación de código fuente de aplicaciones.•	Desarrollo en backend y en frontend•	Análisis de Requerimientos•	Elaboración de documentación técnica.•	Cumplir con los tiempos de entrega de los proyectos.•	Reporte de avances de proyectoHerramientas Frontend:•	Html5, Bootstrap Framework CSS3•	Angular 8.0 o superior (Intermedio obligatorio)•	Vue Js Framework (deseable)•	Pruebas Unitarias FrontEndHerramientas Backend:•	Conocimiento API Rest•	Conocimiento Java Avanzado indispensable (opcional phyton, node.js)•	Motor de base de datos (PostgreSql, SQL Server)•	Sistema Operativo (alguna distribución de Linux)•	Dockers (Portabilidad de Aplicaciones)Se valorará:  •	Capacidad de análisis•	Pruebas unitarias, pruebas automatizadas•	Manejo de repositorios versionamiento (GitHub, GitLab, CodeCommit)•	Conocimiento Servicios de Desarrollo AWS (obligatorio)
+Fecha de contratación: 23/05/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 10Edad: entre 30 y 45 añosDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

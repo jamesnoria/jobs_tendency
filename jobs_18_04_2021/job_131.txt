@@ -1,0 +1,6 @@
+
+Descripción
+1.	PROGRAMADOR FULL STACK (SECTOR SALUD)-	Conocimientos necesarios: React, Spring Boot, Junit, Mockito, SQL Server, Microservicios-	Conocimientos opcionales: Azure, API Management, Docker, Kubernetes.2.	PROGRAMADOR FULL STACK (MESA AGIL)-	Conocimientos necesarios: Spring Boot, Junit, Mockito, Oracle, Angular, Scrum.
+Cantidad de vacantes: 3
+Requerimientos
+Educación mínima: TécnicoDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

@@ -1,0 +1,7 @@
+
+Descripción
+MYSQL Server •	Lenguaje de definición de datos (DDL)•	Lenguaje de manipulación de datos DML•	Clausulas•	Operadores Lógicos•	Funciones de agregado•	Consultas•	Consultas mediante JOIN•	Agrupamiento de registrosLenguaje de Programación PHP •	Variables y tipos de datos•	Estructuras de control (Sentencia y Condición)•	Estructuras de repetición o bucles•	Sesiones y cookies•	Declaración de funciones en PHP•	Uso de bases de datos en PHPConocimientos Power BiConocimientos Técnicos AndroidConocimiento Técnicos IOSConocimiento Técnicos App Hibridas
+Fecha de contratación: 30/04/2021
+Cantidad de vacantes: 2
+Requerimientos
+Educación mínima: UniversitarioEdad: A partir de 18 añosConocimientos: JavaOS, PostgreSQL, SQL Server, MySqlDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

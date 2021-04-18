@@ -1,0 +1,6 @@
+
+Descripción
+Programador Desarrollador de Aplicaciones Se necesita (02) desarrolladores de aplicaciones Móvil y (02) desarrolladores WEB en Frontend y Backend.Ofrecemos la oportunidad de formar parte de un gran proyecto empresarial en constante crecimiento, con salarios competitivos y objetivo de permanencia a largo plazo.REQUISITOS GENERALES- Profesional Universitario o Técnico en Ingeniería de Sistemas, Egresado o afines.- Experiencia en desarrollo, presentar proyectos anteriores o mención.- Conocimientos en API REST, SOAP (JSON - XML)- Conocimientos en base de datos SQL Server (medio - avanzado)- Disponibilidad tiempo completoREQUISITOS DESARROLLADOR MOVIL- Conocimientos en Android Studio (medio - avanzado)- Conocimientos deseables en Objective-C, Swift, Xamarin, React Native (opcional)REQUISITOS DESARROLLADOR WEB- Conocimientos en Visual Studio 2017 C#, MVC (medio - avanzado)- Conocimiento de bootstrap (medio - avanzado)- Conocimiento en Jquery
+Cantidad de vacantes: 4
+Requerimientos
+Educación mínima: TécnicoEdad: entre 21 y 33 añosDisponibilidad de viajar: NoDisponibilidad de cambio de residencia: No

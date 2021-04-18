@@ -1,0 +1,7 @@
+
+Descripción
+PUESTO:Desarrollador Frontend React.jsREQUISITOS:- Estudios técnicos o universitarios culminados en Ingeniería de Sistemas, Informática o a fines [INDISPENSABLE]- Experiencia mínima de 2 años manejando framework React Native (Intermedio - Avanzado) [INDISPENSABLE]- Manejo de Javascript - Promise- Subscribers - Conocimientos adicionales en :* Implementación de Navegación (Push, Modal, Forms)* Implementación y consumo de servicios REST (intermedio - avanzado)* Apollo client * Hook * GraphQL* Manejo de estados con Redux* Debugging and Testing* Manejo de información offline (Storage, Cache)* Integración con servicios externos (Crashlytics, Analytics)[DESEABLE]FUNCIONES:- Manejar el versionado de los proyectos desarrollados.- Reportar al Jefe inmediato a cargo de los proyectos en curso en donde se encuentre asignado.- Cumplir con las metas asignadas por la organizaciónLas personas interesadas enviar IMPERATIVAMENTE la siguiente información:1.- CV.2.- Carta de presentación.3. Pretensiones salariales. NOTA: La remuneración será proporcional a los años de experiencia. Esto implica posibilidad de incremento de remuneración según la experiencia laboral del postulante.
+Fecha de contratación: 19/04/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 2Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: NoPersonas con discapacidad: Sí

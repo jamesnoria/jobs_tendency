@@ -1,0 +1,7 @@
+
+Descripción
+REQUISITOS:•	Bachiller o egresado en Ingeniería de Sistemas o profesional técnico en computación e informática.•	Experiencia mínima de 4 años en desarrollo de software en la tecnología .NETCONOCIMIENTOS:a)	Tecnologías Front-Endo	Plataforma: .NETo	Framework de presentación: Bootstrap o Material Design o	Framework de desarrollo: Angular v8o	Pre-procesar de estilos: SCSS/SASSo	Lenguaje de programación: TypeScriptb)	Tecnologías Back-Endo	Framework: .Net Coreo	Base de Datos: SQL Server 2016 o superioro	Lenguaje de programación: C#FUNCIONES:•	Análisis y desarrollo de requerimientos en tecnología .NET•	Documentar los cambios realizados.•	Implementación de pruebas unitarias.•	Realización de pruebas de integración de los desarrollos asignados previo al envío a QA.•	Elaborar documento de análisis de los requerimientos del cliente.
+Fecha de contratación: 11/06/2021
+Cantidad de vacantes: 1
+Requerimientos
+Educación mínima: TécnicoAños de experiencia: 4Disponibilidad de viajar: NoDisponibilidad de cambio de residencia: No
