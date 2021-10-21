@@ -31,7 +31,7 @@ El proyecto entrega una estadística sincera de lo que actualmente el mercado pe
 ## TO-DO
 - Mejorar data visualization
 - Expandir el proyecto hacia otras plataformas de busqueda de empleo, no solo en Perú, sino a nivel latinoamerica.
-- Testing
+
 ## Licencia 📄
 
 - Ver `LICENSE` para mayor información.
